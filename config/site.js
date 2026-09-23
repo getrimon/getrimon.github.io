@@ -16,13 +16,13 @@ window.SITE_CONFIG = {
 
   // IMPORTANT: change this when you connect a custom domain.
   // Example: "https://getrimon.com"
-  siteUrl: "https://rimon-babu.github.io",
+  siteUrl: "https://getrimon.github.io",
 
   email: "hello@getrimon.com",
-  whatsapp: "https://wa.me/8801XXXXXXXXX", // replace with real number, digits only after wa.me/
-  facebook: "https://facebook.com/getrimon",
-  linkedin: "https://linkedin.com/in/getrimon",
-  github: "https://github.com/rimon-babu",
+  whatsapp: "https://wa.me/8801328727773", // replace with real number, digits only after wa.me/
+  facebook: "https://facebook.com/rimonwp",
+  linkedin: "https://linkedin.com/in/rimonbabu",
+  github: "https://github.com/getrimon",
 
   year: new Date().getFullYear(),
 };

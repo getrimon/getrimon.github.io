@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rimon-babu.github.io/sitemap.xml
+Sitemap: https://getrimon.github.io/sitemap.xml

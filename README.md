@@ -35,14 +35,14 @@ Set `thumbnail` to an image URL or a path under `assets/`. Add more images to th
 Set `video` to a YouTube/Vimeo embed URL or a direct `.mp4` URL. Leave it as `""` to hide the video section — images are used automatically.
 
 ## Deploy to GitHub Pages
-1. Create a repo named `rimon-babu.github.io` (or any name — for a project site, GitHub Pages serves it at `username.github.io/repo-name/`).
+1. Create a repo named `getrimon.github.io` (or any name — for a project site, GitHub Pages serves it at `username.github.io/repo-name/`).
 2. Push all these files to the repo's default branch.
 3. In the repo **Settings → Pages**, set the source to the branch/root.
-4. Your site is live at `https://rimon-babu.github.io/`.
+4. Your site is live at `https://getrimon.github.io/`.
 
 ## Connect a custom domain later (e.g. getrimon.com)
 1. In `config/site.js`, change `siteUrl` to `https://getrimon.com`.
-2. Update the `canonical` and `og:*` meta tags in each HTML file's `<head>`, and the URLs in `robots.txt` and `sitemap.xml`, from `rimon-babu.github.io` to `getrimon.com`.
+2. Update the `canonical` and `og:*` meta tags in each HTML file's `<head>`, and the URLs in `robots.txt` and `sitemap.xml`, from `getrimon.github.io` to `getrimon.com`.
 3. In repo **Settings → Pages**, add your custom domain — GitHub creates the `CNAME` file for you.
 4. Point your domain's DNS to GitHub Pages (GitHub's docs list the required A/CNAME records).
 
